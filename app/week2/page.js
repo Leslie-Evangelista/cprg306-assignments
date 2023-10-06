@@ -1,5 +1,4 @@
-import React from 'react';
-import StudentInfo from '../../StudentInfo'; 
+import StudentInfo from "../StudentInfo";
 
 function Week2Page() {
   return (
