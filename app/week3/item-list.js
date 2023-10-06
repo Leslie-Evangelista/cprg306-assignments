@@ -2,33 +2,33 @@ import React from 'react';
 import Item from './item';
 
 const item1 = {
-    name: "steak 🥩",
+    name: "Steak 🥩",
     quantity: 2,
-    category: "meat",
+    category: "Meat",
   };
   
   const item2 = {
-    name: "banana bread 🍞",
+    name: "Banana Bread 🍞",
     quantity: 7,
-    category: "bakery",
+    category: "Bakery",
   };
   
   const item3 = {
-    name: "sushi 🍣",
+    name: "Sushi 🍣",
     quantity: 3,
-    category: "meat",
+    category: "Meat",
   };
   
   const item4 = {
-    name: "cupcake 🧁",
+    name: "Cupcake 🧁",
     quantity: 1,
-    category: "bakery",
+    category: "Bakery",
   };
 
   const item5 = {
-    name: "burger 🍔",
+    name: "Burger 🍔",
     quantity: 9,
-    category: "meat",
+    category: "Meat",
   };
   
   
