@@ -1,16 +1,10 @@
-/** @jsxRuntime classic */
-/** @jsx jsx */
-import { jsx, useClient } from 'theme-ui';
-import React from 'react';
-import NewItem from './new-item';
+import NewItem from "./new-item.js";
 
-function Page() {
-  return (
-    <div>
-      <h1>This is the Page component</h1>
-      <NewItem />
-    </div>
-  );
+export default function Page() {
+
+    return (
+        <main>
+            <NewItem />
+        </main>
+    )
 }
-
-export default Page;
